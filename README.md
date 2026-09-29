@@ -10,6 +10,10 @@ healthcare products on Aidbox, their FHIR platform, and working on the platform 
 I grew from junior to senior there, and led a clinical search migration over ~16 TB that
 took p95 latency from ~4s to ~180ms.
 
+Alongside that I co-founded **418Team**, a digital agency run as a side business, where the
+driving-exam app we built for Kazakhstan reached #1 in Education on the App Store within a
+month of launch — ahead of Duolingo and Photomath.
+
 Based in Oviedo, Spain.
 
 ---
@@ -70,6 +74,7 @@ Open source · TypeScript · React
 | **Data** | PostgreSQL · OpenSearch · Redis / Valkey |
 | **Infrastructure** | AWS · Kubernetes · Helm · Terraform · Docker · GitHub Actions |
 | **AI** | LLM agent pipelines · RAG · MCP · inference cost optimization |
+| **Frontend & mobile** | React · Next.js · React Native |
 
 ---
 
