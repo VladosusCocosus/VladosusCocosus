@@ -5,9 +5,10 @@ healthcare, private aviation and edtech, mostly TypeScript and Node.js on Postgr
 AWS and Kubernetes.
 
 Currently at **Kanda Software**, building the AI agent layer for a platform that sources
-private jet charters over email. Before that, five years at **Health Samurai** on Aidbox,
-a FHIR platform for medical applications, where I led a clinical search migration over
-~16 TB that took p95 latency from ~4s to ~180ms.
+private jet charters over email. Before that, five years at **Health Samurai** — building
+healthcare products on Aidbox, their FHIR platform, and working on the platform itself.
+I grew from junior to senior there, and led a clinical search migration over ~16 TB that
+took p95 latency from ~4s to ~180ms.
 
 Based in Oviedo, Spain.
 
