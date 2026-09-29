@@ -62,7 +62,7 @@ Open source · TypeScript · React
 
 ### Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | TypeScript · Go · SQL · Rust · C |
 | **Backend** | Node.js · NestJS · Elysia · Hono · Temporal · REST · GraphQL |
