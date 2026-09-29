@@ -55,13 +55,9 @@ keystroke.
 
 Open source · TypeScript · Electron · React · SQLite · IMAP
 
-#### [temporal-view](https://github.com/VladosusCocosus/temporal-view)
-
-A React devtool for seeing Temporal workflows on the page. Tag DOM elements with
-`temporal-workflow-id` and a floating panel lists them, highlights on hover, and links
-through to the Temporal UI.
-
-Open source · TypeScript · React
+Also **[temporal-view](https://github.com/VladosusCocosus/temporal-view)**, a small React
+devtool that lists the Temporal workflows running on a page and links through to the
+Temporal UI.
 
 ---
 
