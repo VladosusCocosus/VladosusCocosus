@@ -1,8 +1,8 @@
 ## Vlad Razin
 
 Senior backend engineer — distributed systems and LLM pipelines. Six years across
-healthcare, private aviation and edtech, mostly TypeScript and Go on PostgreSQL, AWS
-and Kubernetes.
+healthcare, private aviation and edtech, mostly TypeScript and Node.js on PostgreSQL,
+AWS and Kubernetes.
 
 Currently at **Kanda Software**, building the AI agent layer for a platform that sources
 private jet charters over email. Before that, five years at **Health Samurai** on Aidbox,
